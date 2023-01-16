@@ -1,4 +1,4 @@
-#Metarabbit Casino
+# Metarabbit Casino
 
 [Metarabbit Dapp](https://metarabbit.casino)
 
