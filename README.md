@@ -1,6 +1,6 @@
 #Metarabbit Casino
 
-[dapp](https://metarabbit.casino)
+[Metarabbit Dapp](https://metarabbit.casino)
 
 We are an online casino platform specializing in cryptocurrencies.
 Founded in February 2022 by a team of entrepreneurs with a shared passion for online and responsible gambling,
